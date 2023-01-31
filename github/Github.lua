@@ -19,7 +19,7 @@ end
 
 ---@param token string
 function Github:token(token)
-    Github.GLOBAL_TOKEN = string.format("token %s", token)
+    Github.GLOBAL_TOKEN = token
     return self
 end
 
