@@ -1,4 +1,4 @@
-# Github Api
+# AndroLua-GithubAPI
 
 > 一套简易的接口，用以在AndroLua快速发起Github请求；
 
